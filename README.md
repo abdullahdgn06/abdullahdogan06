@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abdullah Doğan
 - 👀 I'm studying in computer engineering.
-- 🌱 I’m currently C learning.
 - 📫 You can reach me at my e-mail address. (abdogan0306@gmail.com) 
 
 <!---
